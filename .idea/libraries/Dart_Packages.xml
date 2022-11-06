@@ -5,14 +5,14 @@
         <entry key="lints">
           <value>
             <list>
-              <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/lints-1.0.1/lib" />
+              <option value="C:/Users/Draz/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/lints-1.0.1/lib" />
             </list>
           </value>
         </entry>
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/lints-1.0.1/lib" />
+      <root url="file://C:/Users/Draz/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/lints-1.0.1/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
